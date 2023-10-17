@@ -20,9 +20,14 @@ public class DemoDay2 {
 	}
 
 		// subtract
-				public static void Divide (int a, int b) {
-					System.out.println (a/b);
-			}
+		public static void Divide (int a, int b) {
+			System.out.println (a/b);
+	}
+
+	// YASIR
+		public static void percentage (int a, int b) {
+			System.out.println (a/b);
+	}
 		
 		
 		
