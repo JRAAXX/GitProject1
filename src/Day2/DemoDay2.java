@@ -16,6 +16,14 @@ public class DemoDay2 {
 	// subtract
 		public static void subtract (int a, int b) {
 			System.out.println (a-b);
+				
 	}
 
+		// subtract
+				public static void Divide (int a, int b) {
+					System.out.println (a/b);
+			}
+		
+		
+		
 }
