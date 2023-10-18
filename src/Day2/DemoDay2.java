@@ -35,6 +35,7 @@ public class DemoDay2 {
 	}
 	// add method
 	public static void add (double a, double b) {
-		System.out.println (a+b);		
+		System.out.println (a+b);	
+		System.out.println("Test");
 	}		
 }
