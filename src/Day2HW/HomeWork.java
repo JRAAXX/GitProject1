@@ -11,4 +11,7 @@ public class HomeWork {
 		System.out.println ("This is data..");
 		}
 
+    public void getInfo () {
+	System.out.println("Today is Tuesday" );
+}
 }
