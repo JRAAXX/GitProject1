@@ -13,5 +13,7 @@ public class HomeWork {
 
     public void getInfo () {
 	System.out.println("Today is Tuesday" );
+
+	    System.out.println ("HOLA!!");
 }
 }
