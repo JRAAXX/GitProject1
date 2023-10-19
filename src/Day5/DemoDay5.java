@@ -15,7 +15,6 @@ public class DemoDay5 {
 		public void string() {
 			System.out.println("Today is a fun day....");
 
-
-	System.out.println ("Hi....");	
+boolean doIhaveLecture = false;
 }
 }
