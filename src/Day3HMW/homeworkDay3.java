@@ -8,9 +8,4 @@ public class homeworkDay3 {
 		System.out.println("Day 3 home work");
 	}
 
-	public void add(Int 1+2, 3+1) {
-		System.out.println ("This is data..");
-		}
-
-	
 }
