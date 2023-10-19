@@ -7,4 +7,8 @@ public class HomeWork {
 		System.out.println("Day 2 home work");
 	}
 
+
+	public void getInfo () {
+		System.out.println("Today is wonderful");
+
 }
