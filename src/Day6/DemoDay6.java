@@ -8,5 +8,10 @@ public class DemoDay6 {
 	
 	public static void add (int a, int b){
 		System.out.println (a+b);
+			
+		}
+	public static void getInfo() {
+		System.out.println ("Hi");
+	}
 
 }
