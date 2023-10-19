@@ -6,6 +6,7 @@ public class DemoDay6 {
 		System.out.println ("Hello Summer");
 	}
 	
-	
+	public static void add (int a, int b){
+		System.out.println (a+b);
 
 }
