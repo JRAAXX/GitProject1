@@ -9,7 +9,7 @@ public class DemoDay5 {
 		System.out.println("This is data..");
 	}
 		public void getInfo() {
-		System.out.println("Today is java day..");
+		System.out.println("Today is java day....");
 	}
 
 }
