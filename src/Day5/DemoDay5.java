@@ -11,5 +11,9 @@ public class DemoDay5 {
 		public void getInfo() {
 		System.out.println("Today is java day....");
 	}
+		
+		public void string() {
+			System.out.println("Today is a fun day....");
 
+}
 }
